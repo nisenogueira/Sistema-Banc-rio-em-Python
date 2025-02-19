@@ -1,4 +1,4 @@
-# Sistema-Banc-rio-em-Python
+# Sistema-Bancario-em-Python
 Desafio Suzano - Python Developer DIO
 
 DESCRIÇÃO
